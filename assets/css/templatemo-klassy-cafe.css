@@ -1105,14 +1105,15 @@ menu
   position: relative;
   margin-left: auto;
   width: 70px;
-  height: 40px;
+  height: 60px;
   background-color: #f15822;
-  font-size: 10px;
+  font-size: 20px;
   font-weight: 700;
   color: #fff;
   border-bottom-left-radius: 100%;
   text-align: center;
-  line-height: 30px;
+  padding: 5px 0 0 15px ;
+  line-height: 20px;
 }
 #menu .details a {
   margin: 0;
