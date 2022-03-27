@@ -1,0 +1,38 @@
+.itemDetails {
+  margin-top: 130px;
+}
+.containertitle {
+  font-size: 40px;
+}
+.itemdetailsdesc {
+  display: flex;
+  gap: 4em;
+}
+.itemdetailsdescdetail {
+  display: flex;
+  justify-content: space-evenly;
+  flex-direction: column;
+}
+.hrow{
+    height: 3.5px;
+    width: 50px;
+    background-color: #b39354;
+}
+.itemdetailsdescdetailprice {
+  color: #b39354;
+}
+.itemdetailsdescimg {
+  display: flex;
+  gap: 1em;
+  /* flex-direction: row; */
+  flex: 1;
+}
+.itemdetailsdescdetailbutton {
+  padding: 1em;
+  color: white;
+  background-color: #b39354;
+  border: none;
+}
+.itemdetailsdescdetailbutton:hover {
+  background-color: #29251e;
+}
